@@ -1,0 +1,105 @@
+# Delta — Generative Engine Optimization Map
+
+> An online clothing brand specializing in pajamas and sleepwear for all ages — from babies and children to adults. The brand covers the full family spectrum, offering comfortable and cozy sleepwear collections. The business appears to be a fashion retail brand with a warm, family-friendly identity.
+
+---
+
+## Pages
+
+### בית
+https://delta-70b4c47d.zappy5.app
+הלבישו את כל המשפחה בפיג׳מות הכי נעימות ברשת! מתינוקות ועד מבוגרים, Delta מביאה לכם שינה מתוקה בסטייל. היכנסו עכשיו לקולקציית החלומות.
+
+### אוספים משפחתיים
+https://delta-70b4c47d.zappy5.app/family-collections
+צרו רגעים משפחתיים קסומים עם קולקציות פיג׳מות מתואמות מחממות לב. מעיצובים שובבים לקטנטנים ועד נוחות יוקרתית למבוגרים. Delta מזמינה אתכם להתכרבל יחד עוד הלילה.
+
+### אודות
+https://delta-70b4c47d.zappy5.app/about
+ב-Delta אנחנו מאמינים ששינה טובה מתחילה בבד הנכון. גלו את התשוקה, האיכות והאהבה למשפחה שטווים בכל פריט. בואו להכיר את המותג שמחבק אתכם בלילה.
+
+### צור קשר
+https://delta-70b4c47d.zappy5.app/contact
+יש שאלה על מידה, בד או משלוח? צוות Delta תמיד כאן בשבילכם עם חיוך ושירות אישי. השאירו פרטים ונחזור אליכם במהירות עם כל התשובות.
+
+### Products
+https://delta-70b4c47d.zappy5.app/products
+המוצרים שלנו - Delta
+
+### Cart
+https://delta-70b4c47d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://delta-70b4c47d.zappy5.app/checkout
+תשלום
+
+### Login
+https://delta-70b4c47d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://delta-70b4c47d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://delta-70b4c47d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://delta-70b4c47d.zappy5.app/product/:slug
+פרטי המוצר - Delta
+
+### Category
+https://delta-70b4c47d.zappy5.app/category/:slug
+מוצרים - Delta
+
+### תודה שפניתם אלינו
+https://delta-70b4c47d.zappy5.app/thank-you
+Delta - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://delta-70b4c47d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://delta-70b4c47d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://delta-70b4c47d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Delta
+An online clothing brand specializing in pajamas and sleepwear for all ages — from babies and children to adults. The brand covers the full family spectrum, offering comfortable and cozy sleepwear collections. The business appears to be a fashion retail brand with a warm, family-friendly identity.
+
+## Target Audience
+- כל הגילאים
+- משפחות מחפשות נוחות
+- חובבי פיג'מות יוקרתיות
+- נוער חובבי נוחות
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://delta-70b4c47d.zappy5.app/sitemap.xml
+- Robots: https://delta-70b4c47d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://delta-70b4c47d.zappy5.app/llms-full.txt
+- Products (JSON): https://delta-70b4c47d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://delta-70b4c47d.zappy5.app/product-feed.xml
