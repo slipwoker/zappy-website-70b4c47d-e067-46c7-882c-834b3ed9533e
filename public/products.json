@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-21T12:42:21.316Z",
+  "generated_at": "2026-06-21T14:22:21.537Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "3b125413-58b5-4b0e-9a36-1bf015d02ccf",
+      "slug": "pygmh-shl-styts-banzzl",
+      "name": "פיג׳מה של סטיץ",
+      "name_translations": {},
+      "description": "<p>פיגמה יפה לבנות </p><p><br></p>",
+      "short_description": null,
+      "sku": null,
+      "brand": "Delta",
+      "price": 99.9,
+      "base_price": 99.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1782046248090-u0vv4n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/pygmh-shl-styts-banzzl",
+      "categories": [],
+      "updated_at": "2026-06-21T12:53:08.872Z"
+    }
+  ]
 }

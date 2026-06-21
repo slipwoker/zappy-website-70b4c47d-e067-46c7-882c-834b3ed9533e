@@ -5490,3 +5490,15 @@ Description: Delta - תודה שפניתם אלינו
 
 ---
 
+## Product Catalog
+
+### פיג׳מה של סטיץ
+URL: https://example.com/product/pygmh-shl-styts-banzzl
+Price: 99.90 ILS
+Availability: In stock
+Brand: Delta
+
+פיגמה יפה לבנות
+
+---
+

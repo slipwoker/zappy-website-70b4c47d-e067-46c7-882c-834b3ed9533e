@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### פיג׳מה של סטיץ
+https://example.com/product/pygmh-shl-styts-banzzl
+- Price: 99.90 ILS
+- Availability: In stock
+- Brand: Delta
+- Description: פיגמה יפה לבנות
+- Image: https://example.com/assets/image-product-image-1782046248090-u0vv4n.webp
 
 ---
 

@@ -4,6 +4,17 @@
     <title>Delta</title>
     <link>https://example.com</link>
     <description>Product feed for Delta</description>
-    <lastBuildDate>Sun, 21 Jun 2026 12:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:22:21 GMT</lastBuildDate>
+    <item>
+      <g:id>3b125413-58b5-4b0e-9a36-1bf015d02ccf</g:id>
+      <g:title>פיג׳מה של סטיץ</g:title>
+      <g:description>פיגמה יפה לבנות</g:description>
+      <g:link>https://example.com/product/pygmh-shl-styts-banzzl</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1782046248090-u0vv4n.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Delta</g:brand>
+    </item>
   </channel>
 </rss>
